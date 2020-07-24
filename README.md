@@ -29,21 +29,21 @@ You only need to deploy the server side. For the client program you can use the 
 
 Login for the first time:
 
-
+![log](https://github.com/af-code2build/Private_Messenger/blob/master/imagens/log%20new.png)
 
 Login as the Administrator:
 
-
+![log adimn](https://github.com/af-code2build/Private_Messenger/blob/master/imagens/log%20admin.png)
 
 Login as the Client:
 
-
+![log cliente](https://github.com/af-code2build/Private_Messenger/blob/master/imagens/log%20cliente.png)
 
 
 
 ### Project summary
 
-Whenever the program runs for the first time, the first thing that is done is check whether or not a database exists. If the database is not found, then a folder will be created with the name "Raiz" (meaning: root) where all of the text files, that work as message boxes for each user, will be stored. As well as the lists with the basic information of each user.
+Whenever the program runs for the first time, the first thing done is checking whether or not a database exists. If the database is not found, then a folder will be created with the name "Raiz" (meaning: root) where all of the text files, that work as message boxes for each user, will be stored. As well as the lists with the basic information of each user.
 
 After the login has been successful, the user can choose, between a list of options, what action he wishes to perform. 
 
